@@ -30,8 +30,9 @@ jobs:
       - run: git status
 
       # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.2.1
+
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
