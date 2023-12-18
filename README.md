@@ -11,7 +11,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png">
   <img align="center" alt="PSQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
 </div>
-[![Snake Game](https://github.com/seu-usuario/seu-repositorio/raw/output/github-contribution-grid-snake.svg)](https://github.com/J0hnmelo)
+[![Snake Game](https://github.com/J0hnmelo/J0hnmelo/raw/output/github-contribution-grid-snake.svg)](https://github.com/J0hnmelo)
 
 
 
